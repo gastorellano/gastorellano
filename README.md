@@ -1,4 +1,4 @@
-## Hi there 👋 ||| ¡Hola a todos!👋👋
+## Hi there 👋 ¡Hola a todos!👋👋
 
 Mi nombre es Gastón Orellano. Soy Data Scientist, con un gran interés en Data Analytics, y también Abogado, especializado en asesoramiento empresarial y Derecho Laboral. Me gusta aportar soluciones, y afrontar nuevos desafíos profesionales.
 
